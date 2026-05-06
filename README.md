@@ -1,8 +1,8 @@
-# 📚 RAG Study Assistant
+# RAG Study Assistant
 
 An AI-powered study tool that lets you upload PDFs and notes, then ask questions — getting answers with **cited sources** from your own content.
 
-## 🧠 Tech Stack
+## Tech Stack
 
 | Layer | Technology |
 |-------|-----------|
@@ -14,7 +14,7 @@ An AI-powered study tool that lets you upload PDFs and notes, then ask questions
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Clone & Setup
 
@@ -75,7 +75,7 @@ Frontend runs at: http://localhost:3000
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 rag-study-assistant/
@@ -103,7 +103,7 @@ rag-study-assistant/
 
 ---
 
-## ✨ Features
+## Features
 
 - 📄 Upload PDFs, TXT, and Markdown files
 - 🔍 Semantic search via Pinecone vector database
@@ -114,7 +114,7 @@ rag-study-assistant/
 
 ---
 
-## 🔧 API Endpoints
+## API Endpoints
 
 | Method | Endpoint | Description |
 |--------|----------|-------------|
@@ -125,7 +125,7 @@ rag-study-assistant/
 
 ---
 
-## 🚢 Deployment
+## Deployment
 
 ### Backend (Railway / Render)
 ```bash
@@ -143,7 +143,7 @@ NEXT_PUBLIC_API_URL=https://your-backend-url.railway.app
 
 ---
 
-## 📤 Git Commands (Push to GitHub)
+## Git Commands (Push to GitHub)
 
 ```bash
 # Initialize git (first time)
@@ -164,7 +164,7 @@ git push
 
 ---
 
-## 🎓 Learning Resources
+## Learning Resources
 
 - [LangChain Docs](https://python.langchain.com/docs/get_started/introduction)
 - [Pinecone Quickstart](https://docs.pinecone.io/guides/get-started/quickstart)
